@@ -10,6 +10,12 @@ When it is your turn, click above the column you want to place your token in and
 
 The computer will automatically figure out who wins and will keep track of who has the most wins (red or yellow) in one playing session.
 
+## Play here: 
+https://connect-four-v2-tn.glitch.me
+
+
+## Files: 
+
 ### ← README.md
 
 That's this file, which explains the different components of the website
